@@ -1,0 +1,10 @@
+/* noinspection CssInvalidAtRule */
+@tailwind base;
+/* noinspection CssInvalidAtRule */
+@tailwind components;
+/* noinspection CssInvalidAtRule */
+@tailwind utilities;
+
+body {
+    @apply bg-blue-500 p-12;
+}
